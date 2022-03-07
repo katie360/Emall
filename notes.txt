@@ -1,0 +1,137 @@
+ <div class="container products_section pt-3 ">
+                <div class="row pt-3 ">
+
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-3 ">
+
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-3 ">
+
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-3 ">
+
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-3 ">
+
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="card ">
+                            <img src="https://media.istockphoto.com/photos/nairobi-cityscape-capital-city-of-kenya-picture-id637912692?k=6&m=637912692&s=612x612&w=0&h=dmUFmQbZfY6HpoZOiGUtMOv6W0COMp_ykIKxZdWhX0g=" class=" card-img-top " alt="... ">
+                            <div class="card-body ">
+                                <p class="card-text ">Some quick example text to build </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
