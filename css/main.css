@@ -62,7 +62,7 @@ header {
 /* Change the link color to #111 (black) on hover */
 
 .nav-link:hover {
-    color: #F7CE3E!important;
+    color: #ca7b04!important;
 }
 
 .search_bar {
@@ -111,7 +111,7 @@ header {
 }
 
 nav a:hover {
-    color: #F7CE3E!important;
+    color: #ca7b04!important;
 }
 
 .side_item {
@@ -198,7 +198,7 @@ nav a:hover {
 }
 
 .quick_products {
-    background-color: #F7CE3E;
+    background-color: #ca7b04;
     border-radius: 10px;
     align-items: center;
     padding: 10px;
@@ -210,7 +210,7 @@ nav a:hover {
 }
 
 .products {
-    background-color: #F7CE3E;
+    background-color: #ca7b04;
 }
 
 section.products_price {
@@ -296,7 +296,7 @@ section.products_price {
 
 .overlay .fa {
     cursor: pointer;
-    background-color: #F7CE3E;
+    background-color: #ca7b04;
     border-radius: 5px;
     color: #000;
     height: 35px;
@@ -357,7 +357,7 @@ ul {
     position: absolute;
     left: 0;
     bottom: -8px;
-    background-color: #F7CE3E;
+    background-color: #ca7b04;
     height: 2px;
     box-sizing: border-box;
     width: 50px;
@@ -401,7 +401,7 @@ ul {
 
 .footer-col .social-links a:hover {
     color: #ffffff;
-    background-color: #F7CE3E;
+    background-color: #ca7b04;
 }
 
 
